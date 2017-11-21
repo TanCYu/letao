@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+*{
+  padding:0;
+  margin:0;
+  list-style: none;
+}
+html,body{
+  height: 100%;
+  background-color:  #222d32;
+}
+.mt-150{
+  margin-top: 150px;
+}
+.panel h4{
+  text-align: center;
+}
